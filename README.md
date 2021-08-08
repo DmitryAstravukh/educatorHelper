@@ -1,2 +1,0 @@
-# educatorHelper
-diploma project
